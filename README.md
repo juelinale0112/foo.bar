@@ -1,2 +1,1 @@
-# foo.bar
-Google foo.bar challenges
+Here's my experience of Google's foo.bar challenges!
